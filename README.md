@@ -1,9 +1,6 @@
 <h1 align="center"><img src="./assets/Music.gif" width="30px"> Discord Music Bot <img src="./assets/Music.gif" width="30px"></h1>
 <div align="center"><img src="./assets/banner.gif"></div>
 
-## 📝 Tutorial
-Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Watch it by clicking [here](https://youtu.be/DQXuTaYa31I)
-
 ## 📸 Screenshots
 
 <div align="left"><img src="https://media.discordapp.net/attachments/803367957522677812/803368532976730122/unknown.png"></div><div align="center"><img src="https://media.discordapp.net/attachments/803367957522677812/803368636676440074/unknown.png"></div><div align="right"><img src="https://media.discordapp.net/attachments/803367957522677812/803368793312591892/unknown.png"></div>
