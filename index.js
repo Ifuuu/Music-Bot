@@ -1,26 +1,3 @@
-const express = require("express")
-const app = express()
-
-app.get("/", (req, res) => {
-    res.send("hello hell!")
-})
-
-app.listen(3000, () => {
-    console.log("project is ready!")
-})
-
-require("dotenv").config();//Loading .env
-const fs = require("fs");
-const { Collection, Client } = require("discord.js");
-
-const client = new Client();//Making a discord bot client
-client.commands = new Collection();//Making client.commands as a Discord.js Collection
-client.queue = new Map()
-
-client.config = {
-  prefix: process.env.PREFIX
-}
-
 //Loading Events
 fs.readdir(__dirname + "/events/", (err, files) => {
   if (err) return console.error(err);
